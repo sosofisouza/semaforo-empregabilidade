@@ -8,6 +8,10 @@
 
 <a href="https://wokwi.com/projects/448014990246792193">Simular no Wokwi</a>
 
+<br><br>
+
+<img src="assets/demo.gif" width="480" alt="Simulação do semáforo no Wokwi" />
+
 </div>
 
 <br>
